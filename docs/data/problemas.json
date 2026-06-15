@@ -1,1 +1,18 @@
-
+[
+  {
+    "problema": "impressora offline",
+    "solucao": "Verifique se o cabo está conectado, se a impressora está ligada e reinicie o serviço de impressão do sistema."
+  },
+  {
+    "problema": "papel atolado",
+    "solucao": "Desligue a impressora, remova o papel com cuidado e verifique se há resíduos internos."
+  },
+  {
+    "problema": "não imprime",
+    "solucao": "Verifique o nível de tinta ou toner e se há documentos na fila de impressão."
+  },
+  {
+    "problema": "impressão falhando",
+    "solucao": "Realize a limpeza de cabeçote e verifique os cartuchos."
+  }
+]
